@@ -29,11 +29,11 @@ If you don't already have the Chrome Extension [ColorZilla](https://chrome.googl
 
 ### After Styling
 
-![](https://raw.githubusercontent.com/intro-web-dev-master/images/main/super-hero-css-1.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/super-hero-css-1.png)
 
-![](https://raw.githubusercontent.com/intro-web-dev-master/images/main/super-hero-css-2.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/super-hero-css-2.png)
 
-![](https://raw.githubusercontent.com/intro-web-dev-master/images/main/super-hero-css-3.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/super-hero-css-3.png)
 
 ## Resources
 
