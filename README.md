@@ -8,7 +8,7 @@ If you don't already have the Chrome Extension [ColorZilla](https://chrome.googl
 
 ### Make the following style changes
 
-* set the font-family for the entire web page to "Poppins" as first choice and san-serif as fallback. Poppins is a google font. See the link in the Resources section for directions.
+* set the font-family for the entire web page to "Poppins" as first choice and san-serif as fallback. Poppins is a google font. See [Using Google Fonts](https://chnn-anne.gitbook.io/html-css/appendix/google-fonts) topic for directions.
 * for all of the sections
   * set a padding of 20px around the content
   * set a margin of 60px on the bottom so there is space between sections
@@ -35,7 +35,4 @@ If you don't already have the Chrome Extension [ColorZilla](https://chrome.googl
 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/super-hero-css-3.png)
 
-## Resources
-
-[Using Google Fonts](https://hoc-1.gitbook.io/web-dev/basic-css/google-fonts)
 
